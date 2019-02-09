@@ -1,0 +1,636 @@
+# Created at 2019-02-09T23:41:15.979
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.lang.Thread.run(Thread.java:748)
+
+
+# Created at 2019-02-09T23:41:16.384
+Unexpected IOException with stream: [
+
+# Created at 2019-02-09T23:41:16.385
+Unexpected IOException with stream: 1
+
+# Created at 2019-02-09T23:41:16.386
+Unexpected IOException with stream: 5
+
+# Created at 2019-02-09T23:41:16.387
+Unexpected IOException with stream: 4
+
+# Created at 2019-02-09T23:41:16.387
+Unexpected IOException with stream: 9
+
+# Created at 2019-02-09T23:41:16.388
+Unexpected IOException with stream: 7
+
+# Created at 2019-02-09T23:41:16.389
+Unexpected IOException with stream: 3
+
+# Created at 2019-02-09T23:41:16.392
+Unexpected IOException with stream: 5
+
+# Created at 2019-02-09T23:41:16.392
+Unexpected IOException with stream: 8
+
+# Created at 2019-02-09T23:41:16.393
+Unexpected IOException with stream: 7
+
+# Created at 2019-02-09T23:41:16.395
+Unexpected IOException with stream: 6
+
+# Created at 2019-02-09T23:41:16.395
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:16.396
+Unexpected IOException with stream: 3
+
+# Created at 2019-02-09T23:41:16.398
+Unexpected IOException with stream: 8
+
+# Created at 2019-02-09T23:41:16.399
+Unexpected IOException with stream: 3
+
+# Created at 2019-02-09T23:41:16.400
+Unexpected IOException with stream: ]
+
+# Created at 2019-02-09T23:41:16.401
+Unexpected IOException with stream: [
+
+# Created at 2019-02-09T23:41:16.402
+Unexpected IOException with stream: W
+
+# Created at 2019-02-09T23:41:16.403
+Unexpected IOException with stream: A
+
+# Created at 2019-02-09T23:41:16.404
+Unexpected IOException with stream: R
+
+# Created at 2019-02-09T23:41:16.404
+Unexpected IOException with stream: N
+
+# Created at 2019-02-09T23:41:16.405
+Unexpected IOException with stream: I
+
+# Created at 2019-02-09T23:41:16.406
+Unexpected IOException with stream: N
+
+# Created at 2019-02-09T23:41:16.406
+Unexpected IOException with stream: G
+
+# Created at 2019-02-09T23:41:16.407
+Unexpected IOException with stream: ]
+
+# Created at 2019-02-09T23:41:16.407
+Unexpected IOException with stream: :
+
+# Created at 2019-02-09T23:41:16.408
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:16.408
+Unexpected IOException with stream: T
+
+# Created at 2019-02-09T23:41:16.409
+Unexpected IOException with stream: i
+
+# Created at 2019-02-09T23:41:16.409
+Unexpected IOException with stream: m
+
+# Created at 2019-02-09T23:41:16.410
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:16.410
+Unexpected IOException with stream: d
+
+# Created at 2019-02-09T23:41:16.411
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:16.411
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:16.412
+Unexpected IOException with stream: u
+
+# Created at 2019-02-09T23:41:16.412
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:16.412
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:16.413
+Unexpected IOException with stream: c
+
+# Created at 2019-02-09T23:41:16.413
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:16.414
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:16.414
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:16.415
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:16.415
+Unexpected IOException with stream: c
+
+# Created at 2019-02-09T23:41:16.415
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:16.416
+Unexpected IOException with stream: i
+
+# Created at 2019-02-09T23:41:16.416
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:16.417
+Unexpected IOException with stream: g
+
+# Created at 2019-02-09T23:41:16.417
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:16.418
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:16.418
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:16.418
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:16.419
+Unexpected IOException with stream: C
+
+# Created at 2019-02-09T23:41:16.419
+Unexpected IOException with stream: h
+
+# Created at 2019-02-09T23:41:16.420
+Unexpected IOException with stream: r
+
+# Created at 2019-02-09T23:41:16.421
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:16.422
+Unexpected IOException with stream: m
+
+# Created at 2019-02-09T23:41:16.423
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:16.424
+Unexpected IOException with stream: ,
+
+# Created at 2019-02-09T23:41:16.424
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:16.424
+Unexpected IOException with stream: r
+
+# Created at 2019-02-09T23:41:16.425
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:16.425
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:16.426
+Unexpected IOException with stream: r
+
+# Created at 2019-02-09T23:41:16.426
+Unexpected IOException with stream: y
+
+# Created at 2019-02-09T23:41:16.427
+Unexpected IOException with stream: i
+
+# Created at 2019-02-09T23:41:16.427
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:16.427
+Unexpected IOException with stream: g
+
+# Created at 2019-02-09T23:41:16.428
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:16.428
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:16.429
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:16.429
+Unexpected IOException with stream: 
+
+# Created at 2019-02-09T23:41:16.429
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:20.384
+Unexpected IOException with stream: [
+
+# Created at 2019-02-09T23:41:20.385
+Unexpected IOException with stream: 1
+
+# Created at 2019-02-09T23:41:20.385
+Unexpected IOException with stream: 5
+
+# Created at 2019-02-09T23:41:20.386
+Unexpected IOException with stream: 4
+
+# Created at 2019-02-09T23:41:20.387
+Unexpected IOException with stream: 9
+
+# Created at 2019-02-09T23:41:20.388
+Unexpected IOException with stream: 7
+
+# Created at 2019-02-09T23:41:20.389
+Unexpected IOException with stream: 3
+
+# Created at 2019-02-09T23:41:20.389
+Unexpected IOException with stream: 5
+
+# Created at 2019-02-09T23:41:20.390
+Unexpected IOException with stream: 8
+
+# Created at 2019-02-09T23:41:20.391
+Unexpected IOException with stream: 8
+
+# Created at 2019-02-09T23:41:20.391
+Unexpected IOException with stream: 0
+
+# Created at 2019-02-09T23:41:20.392
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:20.393
+Unexpected IOException with stream: 3
+
+# Created at 2019-02-09T23:41:20.393
+Unexpected IOException with stream: 8
+
+# Created at 2019-02-09T23:41:20.394
+Unexpected IOException with stream: 4
+
+# Created at 2019-02-09T23:41:20.395
+Unexpected IOException with stream: ]
+
+# Created at 2019-02-09T23:41:20.395
+Unexpected IOException with stream: [
+
+# Created at 2019-02-09T23:41:20.396
+Unexpected IOException with stream: W
+
+# Created at 2019-02-09T23:41:20.397
+Unexpected IOException with stream: A
+
+# Created at 2019-02-09T23:41:20.398
+Unexpected IOException with stream: R
+
+# Created at 2019-02-09T23:41:20.398
+Unexpected IOException with stream: N
+
+# Created at 2019-02-09T23:41:20.399
+Unexpected IOException with stream: I
+
+# Created at 2019-02-09T23:41:20.400
+Unexpected IOException with stream: N
+
+# Created at 2019-02-09T23:41:20.400
+Unexpected IOException with stream: G
+
+# Created at 2019-02-09T23:41:20.401
+Unexpected IOException with stream: ]
+
+# Created at 2019-02-09T23:41:20.402
+Unexpected IOException with stream: :
+
+# Created at 2019-02-09T23:41:20.402
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:20.403
+Unexpected IOException with stream: T
+
+# Created at 2019-02-09T23:41:20.404
+Unexpected IOException with stream: i
+
+# Created at 2019-02-09T23:41:20.404
+Unexpected IOException with stream: m
+
+# Created at 2019-02-09T23:41:20.405
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:20.405
+Unexpected IOException with stream: d
+
+# Created at 2019-02-09T23:41:20.406
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:20.407
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:20.408
+Unexpected IOException with stream: u
+
+# Created at 2019-02-09T23:41:20.409
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:20.409
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:20.410
+Unexpected IOException with stream: c
+
+# Created at 2019-02-09T23:41:20.411
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:20.412
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:20.413
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:20.414
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:20.415
+Unexpected IOException with stream: c
+
+# Created at 2019-02-09T23:41:20.416
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:20.416
+Unexpected IOException with stream: i
+
+# Created at 2019-02-09T23:41:20.417
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:20.418
+Unexpected IOException with stream: g
+
+# Created at 2019-02-09T23:41:20.419
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:20.419
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:20.420
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:20.420
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:20.421
+Unexpected IOException with stream: C
+
+# Created at 2019-02-09T23:41:20.422
+Unexpected IOException with stream: h
+
+# Created at 2019-02-09T23:41:20.422
+Unexpected IOException with stream: r
+
+# Created at 2019-02-09T23:41:20.423
+Unexpected IOException with stream: o
+
+# Created at 2019-02-09T23:41:20.424
+Unexpected IOException with stream: m
+
+# Created at 2019-02-09T23:41:20.424
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:20.425
+Unexpected IOException with stream: ,
+
+# Created at 2019-02-09T23:41:20.426
+Unexpected IOException with stream:  
+
+# Created at 2019-02-09T23:41:20.426
+Unexpected IOException with stream: r
+
+# Created at 2019-02-09T23:41:20.427
+Unexpected IOException with stream: e
+
+# Created at 2019-02-09T23:41:20.427
+Unexpected IOException with stream: t
+
+# Created at 2019-02-09T23:41:20.428
+Unexpected IOException with stream: r
+
+# Created at 2019-02-09T23:41:20.428
+Unexpected IOException with stream: y
+
+# Created at 2019-02-09T23:41:20.428
+Unexpected IOException with stream: i
+
+# Created at 2019-02-09T23:41:20.429
+Unexpected IOException with stream: n
+
+# Created at 2019-02-09T23:41:20.429
+Unexpected IOException with stream: g
+
+# Created at 2019-02-09T23:41:20.429
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:20.430
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:20.430
+Unexpected IOException with stream: .
+
+# Created at 2019-02-09T23:41:20.430
+Unexpected IOException with stream: 
+
+# Created at 2019-02-09T23:41:20.431
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.802
+Unexpected IOException: 8,1,org.BasicCucumber.Runner.Runner,feature(org.BasicCucumber.Runner.Runner),null,org.openqa.selenium.SessionNotCreatedException: session not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 14.90 seconds\000ABuild info: version: '2.53.1'\002C revision: 'a36b8b1cd5757287168e54b817830adce9b0158d'\002C time: '2016-06-30 19:26:09'\000ASystem info: host: 'Gojira'\002C ip: '192.168.31.30'\002C os.name: 'Windows 8'\002C os.arch: 'amd64'\002C os.version: '6.2'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver,null,org.openqa.selenium.SessionNotCreatedException: session not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 14.90 seconds\000ABuild info: version: '2.53.1'\002C revision: 'a36b8b1cd5757287168e54b817830adce9b0158d'\002C time: '2016-06-30 19:26:09'\000ASystem info: host: 'Gojira'\002C ip: '192.168.31.30'\002C os.name: 'Windows 8'\002C os.arch: 'amd64'\002C os.version: '6.2'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver,Runner>AbstractTestNGCucumberTests.feature:21 \00BB Cucumber org.openqa.selenium.S...,cucumber.runtime.CucumberException: \000Aorg.openqa.selenium.SessionNotCreatedException: session not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 14.90 seconds\000ABuild info: version: '2.53.1'\002C revision: 'a36b8b1cd5757287168e54b817830adce9b0158d'\002C time: '2016-06-30 19:26:09'\000ASystem info: host: 'Gojira'\002C ip: '192.168.31.30'\002C os.name: 'Windows 8'\002C os.arch: 'amd64'\002C os.version: '6.2'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000ACaused by: org.openqa.selenium.SessionNotCreatedException: \000Asession not created exception\000Afrom chrome not reachable\000A  (Session info: chrome=71.0.3578.98)\000A  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e)\002Cplatform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)\000ACommand duration or timeout: 14.90 seconds\000ABuild info: version: '2.53.1'\002C revision: 'a36b8b1cd5757287168e54b817830adce9b0158d'\002C time: '2016-06-30 19:26:09'\000ASystem info: host: 'Gojira'\002C ip: '192.168.31.30'\002C os.name: 'Windows 8'\002C os.arch: 'amd64'\002C os.version: '6.2'\002C java.version: '1.8.0_181'\000ADriver info: org.openqa.selenium.chrome.ChromeDriver\000A
+
+
+# Created at 2019-02-09T23:41:25.807
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.807
+Unexpected IOException with stream: [31mFailed scenarios:[0m
+
+
+# Created at 2019-02-09T23:41:25.808
+Unexpected IOException with stream: [31mFeatures/Facebook.feature:4 [0m
+
+# Created at 2019-02-09T23:41:25.808
+Unexpected IOException with stream: # Scenario: Google Search
+
+
+# Created at 2019-02-09T23:41:25.809
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.809
+Unexpected IOException with stream: 1
+
+# Created at 2019-02-09T23:41:25.809
+Unexpected IOException with stream:  Scenarios (
+
+# Created at 2019-02-09T23:41:25.810
+Unexpected IOException with stream: [31m1 failed[0m
+
+# Created at 2019-02-09T23:41:25.810
+Unexpected IOException with stream: )
+
+
+# Created at 2019-02-09T23:41:25.811
+Unexpected IOException with stream: 4
+
+# Created at 2019-02-09T23:41:25.811
+Unexpected IOException with stream:  Steps (
+
+# Created at 2019-02-09T23:41:25.812
+Unexpected IOException with stream: [31m1 failed[0m
+
+# Created at 2019-02-09T23:41:25.812
+Unexpected IOException with stream: , 
+
+# Created at 2019-02-09T23:41:25.813
+Unexpected IOException with stream: [36m3 skipped[0m
+
+# Created at 2019-02-09T23:41:25.813
+Unexpected IOException with stream: )
+
+
+# Created at 2019-02-09T23:41:25.813
+Unexpected IOException with stream: 0m
+
+# Created at 2019-02-09T23:41:25.815
+Unexpected IOException with stream: 19.128s
+
+
+# Created at 2019-02-09T23:41:25.816
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.818
+Unexpected IOException with stream: org.openqa.selenium.SessionNotCreatedException: session not created exception
+from chrome not reachable
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 6.2.9200 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 14.90 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Gojira', ip: '192.168.31.30', os.name: 'Windows 8', os.arch: 'amd64', os.version: '6.2', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+
+# Created at 2019-02-09T23:41:25.818
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.819
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+
+# Created at 2019-02-09T23:41:25.820
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.820
+Unexpected IOException with stream: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+
+# Created at 2019-02-09T23:41:25.821
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.822
+Unexpected IOException with stream: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+
+# Created at 2019-02-09T23:41:25.822
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.823
+Unexpected IOException with stream: 	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+
+# Created at 2019-02-09T23:41:25.824
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.824
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+
+# Created at 2019-02-09T23:41:25.825
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.826
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+
+# Created at 2019-02-09T23:41:25.826
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.827
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+
+# Created at 2019-02-09T23:41:25.827
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.828
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:249)
+
+# Created at 2019-02-09T23:41:25.828
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.829
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+
+# Created at 2019-02-09T23:41:25.829
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.829
+Unexpected IOException with stream: 	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:144)
+
+# Created at 2019-02-09T23:41:25.830
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.830
+Unexpected IOException with stream: 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:170)
+
+# Created at 2019-02-09T23:41:25.830
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.831
+Unexpected IOException with stream: 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:159)
+
+# Created at 2019-02-09T23:41:25.831
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.831
+Unexpected IOException with stream: 	at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:116)
+
+# Created at 2019-02-09T23:41:25.832
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.832
+Unexpected IOException with stream: 	at org.BasicCucumber.StepDefinition.StepDefinition.user_is_present_on_Google_URL(StepDefinition.java:23)
+
+# Created at 2019-02-09T23:41:25.833
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.833
+Unexpected IOException with stream: 	at ?.Given user is present on Google URL(Features/Facebook.feature:5)
+
+# Created at 2019-02-09T23:41:25.834
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.834
+Unexpected IOException with stream: 
+
+
+# Created at 2019-02-09T23:41:25.946
+Unexpected IOException: 2,1,org.apache.maven.surefire.testng.TestNGXmlTestSuite,TestSuite,null,null,null
+
+

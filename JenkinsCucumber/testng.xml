@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">	
+
+
+
+<suite name="softwaretestingmaterial">
+ <test name="testngTest">
+ 
+ 
+ 
+ <classes>
+ <class name="org.BasicCucumber.Runner.Runner" />
+
+ </classes>
+ </test>
+</suite>
